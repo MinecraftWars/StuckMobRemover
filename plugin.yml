@@ -1,0 +1,3 @@
+name: StuckMobRemover
+main: me.draivin.mobremover.MobRemover
+version: 0.1

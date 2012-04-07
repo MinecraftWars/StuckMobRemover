@@ -1,0 +1,1 @@
+Removes Mobs in a 1x1x1 area when they build up in too great of a group.  Helps Tick Rate due to pathing/AI issues.
